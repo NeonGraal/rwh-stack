@@ -18,3 +18,5 @@ To run the simple program, **WC**, change into the directory **ch01** and use
 
     stack runghc WC < quux.txt
 
+## Chapter 2
+
