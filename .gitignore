@@ -56,4 +56,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# PyCharm local files
 workspace.xml
+
+# Stack working directory
+.stack-work/
+
