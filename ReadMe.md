@@ -20,3 +20,17 @@ To run the simple program, **WC**, change into the directory **ch01** and use
 
 ## Chapter 2
 
+All works fine
+
+## Chapter 3
+
+In **stack ghci**, attempting to use our own defined *Maybe* type causes the 
+following error
+
+    Ambiguous occurrence "Just" ...
+
+So my code I use *MyMaybe, etc ...*. I also needed to add a
+
+    deriving (Show)
+
+line to the type declaration 
